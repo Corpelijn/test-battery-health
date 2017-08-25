@@ -3,3 +3,9 @@ C:\Developing\BatteryInformationVDI\DynamicUltimoConnection\bin\Release\DynamicU
 C:\Developing\BatteryInformationVDI\DynamicUltimoConnection\bin\Release\DynamicUltimoConnection.pdb
 C:\Developing\BatteryInformationVDI\DynamicUltimoConnection\obj\Release\DynamicUltimoConnection.exe
 C:\Developing\BatteryInformationVDI\DynamicUltimoConnection\obj\Release\DynamicUltimoConnection.pdb
+C:\Developing\Git\BatteryInformationVDI\DynamicUltimoConnection\bin\Release\DynamicUltimoConnection.exe.config
+C:\Developing\Git\BatteryInformationVDI\DynamicUltimoConnection\bin\Release\DynamicUltimoConnection.exe
+C:\Developing\Git\BatteryInformationVDI\DynamicUltimoConnection\bin\Release\DynamicUltimoConnection.pdb
+C:\Developing\Git\BatteryInformationVDI\DynamicUltimoConnection\obj\Release\DynamicUltimoConnection.csprojResolveAssemblyReference.cache
+C:\Developing\Git\BatteryInformationVDI\DynamicUltimoConnection\obj\Release\DynamicUltimoConnection.exe
+C:\Developing\Git\BatteryInformationVDI\DynamicUltimoConnection\obj\Release\DynamicUltimoConnection.pdb

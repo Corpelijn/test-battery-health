@@ -6,3 +6,11 @@ C:\Developing\BatteryInformationVDI\BatteryHealthService\obj\Release\BatteryHeal
 C:\Developing\BatteryInformationVDI\BatteryHealthService\obj\Release\BatteryHealthService.csproj.GenerateResource.Cache
 C:\Developing\BatteryInformationVDI\BatteryHealthService\obj\Release\BatteryHealth.exe
 C:\Developing\BatteryInformationVDI\BatteryHealthService\obj\Release\BatteryHealth.pdb
+C:\Developing\Git\BatteryInformationVDI\BatteryHealthService\bin\Release\BatteryHealth.exe.config
+C:\Developing\Git\BatteryInformationVDI\BatteryHealthService\bin\Release\BatteryHealth.exe
+C:\Developing\Git\BatteryInformationVDI\BatteryHealthService\bin\Release\BatteryHealth.pdb
+C:\Developing\Git\BatteryInformationVDI\BatteryHealthService\obj\Release\BatteryHealthService.csprojResolveAssemblyReference.cache
+C:\Developing\Git\BatteryInformationVDI\BatteryHealthService\obj\Release\BatteryHealth.Properties.Resources.resources
+C:\Developing\Git\BatteryInformationVDI\BatteryHealthService\obj\Release\BatteryHealthService.csproj.GenerateResource.Cache
+C:\Developing\Git\BatteryInformationVDI\BatteryHealthService\obj\Release\BatteryHealth.exe
+C:\Developing\Git\BatteryInformationVDI\BatteryHealthService\obj\Release\BatteryHealth.pdb

@@ -6,3 +6,11 @@ C:\Developing\BatteryInformationVDI\ClientBatteryService\obj\Release\ClientBatte
 C:\Developing\BatteryInformationVDI\ClientBatteryService\obj\Release\ClientBatteryService.exe
 C:\Developing\BatteryInformationVDI\ClientBatteryService\obj\Release\ClientBatteryService.pdb
 C:\Developing\BatteryInformationVDI\ClientBatteryService\obj\Release\ClientBatteryService.csprojResolveAssemblyReference.cache
+C:\Developing\Git\BatteryInformationVDI\ClientBatteryService\bin\Release\ClientBatteryService.exe.config
+C:\Developing\Git\BatteryInformationVDI\ClientBatteryService\bin\Release\ClientBatteryService.exe
+C:\Developing\Git\BatteryInformationVDI\ClientBatteryService\bin\Release\ClientBatteryService.pdb
+C:\Developing\Git\BatteryInformationVDI\ClientBatteryService\obj\Release\ClientBatteryService.csprojResolveAssemblyReference.cache
+C:\Developing\Git\BatteryInformationVDI\ClientBatteryService\obj\Release\ClientBatteryService.ProjectInstaller.resources
+C:\Developing\Git\BatteryInformationVDI\ClientBatteryService\obj\Release\ClientBatteryService.csproj.GenerateResource.Cache
+C:\Developing\Git\BatteryInformationVDI\ClientBatteryService\obj\Release\ClientBatteryService.exe
+C:\Developing\Git\BatteryInformationVDI\ClientBatteryService\obj\Release\ClientBatteryService.pdb

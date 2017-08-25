@@ -6,3 +6,11 @@ C:\Developing\BatteryInformationVDI\HardwareInformation\obj\Release\HardwareInfo
 C:\Developing\BatteryInformationVDI\HardwareInformation\obj\Release\HardwareInformation.exe
 C:\Developing\BatteryInformationVDI\HardwareInformation\obj\Release\HardwareInformation.pdb
 C:\Developing\BatteryInformationVDI\HardwareInformation\obj\Release\HardwareInformation.csprojResolveAssemblyReference.cache
+C:\Developing\Git\BatteryInformationVDI\HardwareInformation\bin\Release\HardwareInformation.exe.config
+C:\Developing\Git\BatteryInformationVDI\HardwareInformation\bin\Release\HardwareInformation.exe
+C:\Developing\Git\BatteryInformationVDI\HardwareInformation\bin\Release\HardwareInformation.pdb
+C:\Developing\Git\BatteryInformationVDI\HardwareInformation\obj\Release\HardwareInformation.csprojResolveAssemblyReference.cache
+C:\Developing\Git\BatteryInformationVDI\HardwareInformation\obj\Release\HardwareInformation.Properties.Resources.resources
+C:\Developing\Git\BatteryInformationVDI\HardwareInformation\obj\Release\HardwareInformation.csproj.GenerateResource.Cache
+C:\Developing\Git\BatteryInformationVDI\HardwareInformation\obj\Release\HardwareInformation.exe
+C:\Developing\Git\BatteryInformationVDI\HardwareInformation\obj\Release\HardwareInformation.pdb

@@ -4,3 +4,5 @@ C:\Developing\BatteryInformationVDI\InstallHardwareService\bin\Release\InstallHa
 obj\Release\InstallHardwareService.wixproj.BindContentsFileListnull.txt
 obj\Release\InstallHardwareService.wixproj.BindOutputsFileListnull.txt
 obj\Release\InstallHardwareService.wixproj.BindBuiltOutputsFileListnull.txt
+C:\Developing\Git\BatteryInformationVDI\InstallHardwareService\bin\Release\InstallHardwareService.msi
+C:\Developing\Git\BatteryInformationVDI\InstallHardwareService\bin\Release\InstallHardwareService.wixpdb

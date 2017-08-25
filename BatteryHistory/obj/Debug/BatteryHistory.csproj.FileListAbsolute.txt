@@ -11,3 +11,16 @@ C:\Developing\BatteryInformationVDI\BatteryHistory\obj\Debug\BatteryHistory.Wait
 C:\Developing\BatteryInformationVDI\BatteryHistory\obj\Debug\BatteryHistory.csprojResolveAssemblyReference.cache
 C:\Developing\BatteryInformationVDI\BatteryHistory\obj\Debug\BatteryHistory.Multiview.resources
 C:\Developing\BatteryInformationVDI\BatteryHistory\obj\Debug\BatteryHistory.GraphViewer.resources
+C:\Developing\Git\BatteryInformationVDI\BatteryHistory\bin\Debug\BatteryHistory.exe.config
+C:\Developing\Git\BatteryInformationVDI\BatteryHistory\bin\Debug\BatteryHistory.exe
+C:\Developing\Git\BatteryInformationVDI\BatteryHistory\bin\Debug\BatteryHistory.pdb
+C:\Developing\Git\BatteryInformationVDI\BatteryHistory\obj\Debug\BatteryHistory.csprojResolveAssemblyReference.cache
+C:\Developing\Git\BatteryInformationVDI\BatteryHistory\obj\Debug\BatteryHistory.Form1.resources
+C:\Developing\Git\BatteryInformationVDI\BatteryHistory\obj\Debug\BatteryHistory.GraphView.resources
+C:\Developing\Git\BatteryInformationVDI\BatteryHistory\obj\Debug\BatteryHistory.GraphViewer.resources
+C:\Developing\Git\BatteryInformationVDI\BatteryHistory\obj\Debug\BatteryHistory.Multiview.resources
+C:\Developing\Git\BatteryInformationVDI\BatteryHistory\obj\Debug\BatteryHistory.Properties.Resources.resources
+C:\Developing\Git\BatteryInformationVDI\BatteryHistory\obj\Debug\BatteryHistory.Wait.resources
+C:\Developing\Git\BatteryInformationVDI\BatteryHistory\obj\Debug\BatteryHistory.csproj.GenerateResource.Cache
+C:\Developing\Git\BatteryInformationVDI\BatteryHistory\obj\Debug\BatteryHistory.exe
+C:\Developing\Git\BatteryInformationVDI\BatteryHistory\obj\Debug\BatteryHistory.pdb

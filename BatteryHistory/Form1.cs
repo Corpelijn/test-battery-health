@@ -74,7 +74,7 @@ namespace BatteryHistory
                 textBox1.Enabled = true;
                 button1.Enabled = true;
                 label2.Visible = false;
-                button3.Visible = true;
+                //button3.Visible = true;
                 textBox1.Focus();
             }
         }

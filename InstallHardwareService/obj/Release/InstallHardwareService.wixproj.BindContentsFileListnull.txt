@@ -1,1 +1,1 @@
-C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Release\HardwareInformationService.exe
+C:\Developing\Git\BatteryInformationVDI\HardwareInformationService\bin\Release\HardwareInformationService.exe

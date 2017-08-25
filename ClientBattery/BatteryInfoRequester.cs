@@ -49,8 +49,6 @@ namespace ClientBattery
 
                 EventLog.WriteEntry(sSource, sEvent, EventLogEntryType.Information);
             }
-
-            hostname = "lap25828";
         }
 
         #endregion
