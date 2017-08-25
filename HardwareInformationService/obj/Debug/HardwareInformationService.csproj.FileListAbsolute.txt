@@ -1,0 +1,8 @@
+C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe.config
+C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.pdb
+C:\Developing\BatteryInformationVDI\HardwareInformationService\obj\Debug\HardwareInformationService.BatteryInformation.resources
+C:\Developing\BatteryInformationVDI\HardwareInformationService\obj\Debug\HardwareInformationService.ProjectInstaller.resources
+C:\Developing\BatteryInformationVDI\HardwareInformationService\obj\Debug\HardwareInformationService.csproj.GenerateResource.Cache
+C:\Developing\BatteryInformationVDI\HardwareInformationService\obj\Debug\HardwareInformationService.exe
+C:\Developing\BatteryInformationVDI\HardwareInformationService\obj\Debug\HardwareInformationService.pdb

@@ -1,0 +1,2 @@
+C:\Developing\BatteryInformationVDI\InstallHardwareService\bin\Release\InstallHardwareService.msi
+C:\Developing\BatteryInformationVDI\InstallHardwareService\bin\Release\InstallHardwareService.wixpdb

@@ -1,0 +1,6 @@
+C:\Developing\BatteryInformationVDI\Ultimo test\bin\Release\Ultimo test.exe.config
+C:\Developing\BatteryInformationVDI\Ultimo test\bin\Release\Ultimo test.exe
+C:\Developing\BatteryInformationVDI\Ultimo test\bin\Release\Ultimo test.pdb
+C:\Developing\BatteryInformationVDI\Ultimo test\obj\Release\Ultimo test.csprojResolveAssemblyReference.cache
+C:\Developing\BatteryInformationVDI\Ultimo test\obj\Release\Ultimo test.exe
+C:\Developing\BatteryInformationVDI\Ultimo test\obj\Release\Ultimo test.pdb

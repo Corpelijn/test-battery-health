@@ -1,0 +1,5 @@
+C:\Developing\BatteryInformationVDI\DynamicUltimoConnection\bin\Release\DynamicUltimoConnection.exe.config
+C:\Developing\BatteryInformationVDI\DynamicUltimoConnection\bin\Release\DynamicUltimoConnection.exe
+C:\Developing\BatteryInformationVDI\DynamicUltimoConnection\bin\Release\DynamicUltimoConnection.pdb
+C:\Developing\BatteryInformationVDI\DynamicUltimoConnection\obj\Release\DynamicUltimoConnection.exe
+C:\Developing\BatteryInformationVDI\DynamicUltimoConnection\obj\Release\DynamicUltimoConnection.pdb

@@ -1,0 +1,252 @@
+﻿Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt geïnstalleerd.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe ongedaan maken.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Er is een uitzondering opgetreden tijdens de Rollback-fase van het installatieprogramma System.ServiceProcess.ServiceProcessInstaller.
+System.NullReferenceException: De objectverwijzing is niet op een exemplaar van een object ingesteld.
+Er is een uitzondering opgetreden tijdens de Rollback-fase van de installatie. De uitzondering wordt genegeerd en het terugdraaien wordt voortgezet. Het is echter mogelijk dat de computer niet volledig is teruggezet in de eerdere status nadat het terugdraaien is voltooid.
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt geïnstalleerd.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Service MyNewService installeren...
+EventLog-bron MyNewService in logboek Application maken...
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe ongedaan maken.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Het gebeurtenislogboek wordt teruggezet naar eerdere status voor bron MyNewService.
+Er is een uitzondering opgetreden tijdens de Rollback-fase van het installatieprogramma System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Kan de bron niet vinden, maar kan sommige of alle gebeurtenislogboeken niet doorzoeken. Niet-toegankelijke logboeken: Security.
+Er is een uitzondering opgetreden tijdens de Rollback-fase van de installatie. De uitzondering wordt genegeerd en het terugdraaien wordt voortgezet. Het is echter mogelijk dat de computer niet volledig is teruggezet in de eerdere status nadat het terugdraaien is voltooid.
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt geïnstalleerd.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Service MyNewService installeren...
+Service MyNewService is geïnstalleerd.
+EventLog-bron MyNewService in logboek Application maken...
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt toegekend.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt geïnstalleerd.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Service BatteryInformation installeren...
+Service BatteryInformation is geïnstalleerd.
+EventLog-bron BatteryInformation in logboek Application maken...
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt toegekend.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt geïnstalleerd.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Service BatteryInformation installeren...
+EventLog-bron BatteryInformation in logboek Application maken...
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe ongedaan maken.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Het gebeurtenislogboek wordt teruggezet naar eerdere status voor bron BatteryInformation.
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt geïnstalleerd.
+Beïnvloede parameters:
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   uinstall = 
+Service BatteryInformation installeren...
+EventLog-bron BatteryInformation in logboek Application maken...
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe ongedaan maken.
+Beïnvloede parameters:
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   uinstall = 
+Het gebeurtenislogboek wordt teruggezet naar eerdere status voor bron BatteryInformation.
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt geïnstalleerd.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Service BatteryInformation installeren...
+EventLog-bron BatteryInformation in logboek Application maken...
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe ongedaan maken.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Het gebeurtenislogboek wordt teruggezet naar eerdere status voor bron BatteryInformation.
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt geïnstalleerd.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Service BatteryInformation installeren...
+Service BatteryInformation is geïnstalleerd.
+EventLog-bron BatteryInformation in logboek Application maken...
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt toegekend.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt geïnstalleerd.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Service BatteryInformation installeren...
+Service BatteryInformation is geïnstalleerd.
+EventLog-bron BatteryInformation in logboek Application maken...
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt toegekend.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt geïnstalleerd.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Service BatteryInformation installeren...
+Service BatteryInformation is geïnstalleerd.
+EventLog-bron BatteryInformation in logboek Application maken...
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt toegekend.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt geïnstalleerd.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Service BatteryInformation installeren...
+Service BatteryInformation is geïnstalleerd.
+EventLog-bron BatteryInformation in logboek Application maken...
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt toegekend.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt geïnstalleerd.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Service BatteryInformation installeren...
+Service BatteryInformation is geïnstalleerd.
+EventLog-bron BatteryInformation in logboek Application maken...
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt toegekend.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt geïnstalleerd.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Service BatteryInformation installeren...
+Service BatteryInformation is geïnstalleerd.
+EventLog-bron BatteryInformation in logboek Application maken...
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt toegekend.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt geïnstalleerd.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Service BatteryInformation installeren...
+Service BatteryInformation is geïnstalleerd.
+EventLog-bron BatteryInformation in logboek Application maken...
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt toegekend.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt geïnstalleerd.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Service BatteryInformation installeren...
+EventLog-bron BatteryInformation in logboek Application maken...
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe ongedaan maken.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Het gebeurtenislogboek wordt teruggezet naar eerdere status voor bron BatteryInformation.
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt geïnstalleerd.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Service BatteryInformation installeren...
+EventLog-bron BatteryInformation in logboek Application maken...
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe ongedaan maken.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Het gebeurtenislogboek wordt teruggezet naar eerdere status voor bron BatteryInformation.
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt geïnstalleerd.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Service BatteryInformation installeren...
+Service BatteryInformation is geïnstalleerd.
+EventLog-bron BatteryInformation in logboek Application maken...
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt toegekend.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt geïnstalleerd.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Service BatteryInformation installeren...
+EventLog-bron BatteryInformation in logboek Application maken...
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe ongedaan maken.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Het gebeurtenislogboek wordt teruggezet naar eerdere status voor bron BatteryInformation.
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt geïnstalleerd.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe
+Service BatteryInformation installeren...
+Service BatteryInformation is geïnstalleerd.
+EventLog-bron BatteryInformation in logboek Application maken...
+Assembly C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe wordt toegekend.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.InstallLog
+   assemblypath = C:\Developing\BatteryInformationVDI\HardwareInformationService\bin\Debug\HardwareInformationService.exe

@@ -1,0 +1,6 @@
+C:\Developing\BatteryInformationVDI\InstallHardwareService\bin\Debug\InstallHardwareService.msi
+C:\Developing\BatteryInformationVDI\InstallHardwareService\bin\Debug\InstallHardwareService.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\InstallHardwareService.wixproj.BindContentsFileListnull.txt
+obj\Debug\InstallHardwareService.wixproj.BindOutputsFileListnull.txt
+obj\Debug\InstallHardwareService.wixproj.BindBuiltOutputsFileListnull.txt

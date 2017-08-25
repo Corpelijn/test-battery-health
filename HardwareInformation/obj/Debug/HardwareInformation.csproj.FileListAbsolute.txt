@@ -1,0 +1,8 @@
+C:\Developing\BatteryInformationVDI\HardwareInformation\bin\Debug\HardwareInformation.exe.config
+C:\Developing\BatteryInformationVDI\HardwareInformation\bin\Debug\HardwareInformation.exe
+C:\Developing\BatteryInformationVDI\HardwareInformation\bin\Debug\HardwareInformation.pdb
+C:\Developing\BatteryInformationVDI\HardwareInformation\obj\Debug\HardwareInformation.Properties.Resources.resources
+C:\Developing\BatteryInformationVDI\HardwareInformation\obj\Debug\HardwareInformation.csproj.GenerateResource.Cache
+C:\Developing\BatteryInformationVDI\HardwareInformation\obj\Debug\HardwareInformation.exe
+C:\Developing\BatteryInformationVDI\HardwareInformation\obj\Debug\HardwareInformation.pdb
+C:\Developing\BatteryInformationVDI\HardwareInformation\obj\Debug\HardwareInformation.csprojResolveAssemblyReference.cache

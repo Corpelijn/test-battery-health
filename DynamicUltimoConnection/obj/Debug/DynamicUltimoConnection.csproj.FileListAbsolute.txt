@@ -1,0 +1,6 @@
+C:\Developing\BatteryInformationVDI\DynamicUltimoConnection\bin\Debug\DynamicUltimoConnection.exe.config
+C:\Developing\BatteryInformationVDI\DynamicUltimoConnection\bin\Debug\DynamicUltimoConnection.exe
+C:\Developing\BatteryInformationVDI\DynamicUltimoConnection\bin\Debug\DynamicUltimoConnection.pdb
+C:\Developing\BatteryInformationVDI\DynamicUltimoConnection\obj\Debug\DynamicUltimoConnection.csprojResolveAssemblyReference.cache
+C:\Developing\BatteryInformationVDI\DynamicUltimoConnection\obj\Debug\DynamicUltimoConnection.exe
+C:\Developing\BatteryInformationVDI\DynamicUltimoConnection\obj\Debug\DynamicUltimoConnection.pdb

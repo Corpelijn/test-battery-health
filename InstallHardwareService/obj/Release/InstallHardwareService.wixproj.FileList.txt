@@ -1,0 +1,6 @@
+obj\Release\Product.wixobj
+C:\Developing\BatteryInformationVDI\InstallHardwareService\bin\Release\InstallHardwareService.msi
+C:\Developing\BatteryInformationVDI\InstallHardwareService\bin\Release\InstallHardwareService.wixpdb
+obj\Release\InstallHardwareService.wixproj.BindContentsFileListnull.txt
+obj\Release\InstallHardwareService.wixproj.BindOutputsFileListnull.txt
+obj\Release\InstallHardwareService.wixproj.BindBuiltOutputsFileListnull.txt

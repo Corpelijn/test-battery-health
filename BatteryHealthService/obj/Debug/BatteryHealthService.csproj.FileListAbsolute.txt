@@ -1,0 +1,8 @@
+C:\Developing\BatteryInformationVDI\BatteryHealthService\obj\Debug\BatteryHealthService.csprojResolveAssemblyReference.cache
+C:\Developing\BatteryInformationVDI\BatteryHealthService\bin\Debug\BatteryHealth.exe.config
+C:\Developing\BatteryInformationVDI\BatteryHealthService\bin\Debug\BatteryHealth.exe
+C:\Developing\BatteryInformationVDI\BatteryHealthService\bin\Debug\BatteryHealth.pdb
+C:\Developing\BatteryInformationVDI\BatteryHealthService\obj\Debug\BatteryHealth.Properties.Resources.resources
+C:\Developing\BatteryInformationVDI\BatteryHealthService\obj\Debug\BatteryHealthService.csproj.GenerateResource.Cache
+C:\Developing\BatteryInformationVDI\BatteryHealthService\obj\Debug\BatteryHealth.exe
+C:\Developing\BatteryInformationVDI\BatteryHealthService\obj\Debug\BatteryHealth.pdb
