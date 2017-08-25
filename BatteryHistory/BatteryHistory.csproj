@@ -84,6 +84,7 @@
     <Compile Include="Wait.Designer.cs">
       <DependentUpon>Wait.cs</DependentUpon>
     </Compile>
+    <Compile Include="WindowManager.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

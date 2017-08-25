@@ -12,6 +12,7 @@ namespace BatteryHistory
 {
     public partial class GraphViewer : UserControl, IPushNewInfo
     {
+
         public GraphViewer(string hostname)
         {
             InitializeComponent();
@@ -34,7 +35,7 @@ namespace BatteryHistory
 
         private void button2_Click(object sender, EventArgs e)
         {
-            pictureBox1.BackColor = Color.AliceBlue;
+            WindowManager.StartDetailWindow(label1.Text, false);
         }
 
         private void button1_Click(object sender, EventArgs e)

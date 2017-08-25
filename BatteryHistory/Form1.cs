@@ -57,25 +57,31 @@ namespace BatteryHistory
             else if (e.ProgressPercentage == 1)
             {
                 label2.Text = "Niet gevonden!";
+                MessageBox.Show("Niet gevonden!", "", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
                 textBox1.Enabled = true;
                 button1.Enabled = true;
                 textBox1.Focus();
+                label2.Text = "";
+                button3.Visible = true;
             }
             else
             {
                 label2.Text = "Done";
-                this.Hide();
-                GraphView gv = new GraphView(textBox1.Text);
-                gv.ShowDialog();
-                this.Show();
-                HistoryManager.INSTANCE.Reset(textBox1.Text);
+                //this.Hide();
+                //GraphView gv = new GraphView(textBox1.Text);
+                //gv.ShowDialog();
+                //this.Show();
+                //HistoryManager.INSTANCE.Reset(textBox1.Text);
 
-                textBox1.Text = "";
-                textBox1.Enabled = true;
-                button1.Enabled = true;
-                label2.Visible = false;
-                button3.Visible = true;
-                textBox1.Focus();
+                //textBox1.Text = "";
+                //textBox1.Enabled = true;
+                //button1.Enabled = true;
+                //label2.Visible = false;
+                //button3.Visible = true;
+                //textBox1.Focus();
+
+                WindowManager.StartDetailWindow(textBox1.Text, true);
+                this.Close();
             }
         }
 
@@ -85,16 +91,25 @@ namespace BatteryHistory
                 requester.Stop();
 
             this.Close();
+            WindowManager.Exit();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            Multiview mv = new Multiview();
-            mv.ShowDialog();
-            this.Show();
+            //this.Hide();
+            //Multiview mv = new Multiview();
+            //mv.Show(this);
+            //while (!mv.IsDisposed)
+            //{
+            //    Application.DoEvents();
+            //    System.Threading.Thread.Sleep(10);
+            //}
+            //this.Show();
 
-            GC.Collect();
+            //GC.Collect();
+
+            WindowManager.StartMultiview();
+            this.Close();
         }
     }
 }

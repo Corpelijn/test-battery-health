@@ -16,12 +16,22 @@ namespace BatteryHistory
         private Thread _thread;
         private bool showWindow;
         private string hostname;
+        private bool destroyData;
 
         public GraphView(string hostname)
         {
             InitializeComponent();
 
             this.hostname = hostname;
+            destroyData = false;
+        }
+
+        public GraphView(string hostname, bool destroyData)
+        {
+            InitializeComponent();
+
+            this.hostname = hostname;
+            this.destroyData = destroyData;
         }
 
         private void GraphView_ResizeEnd(object sender, EventArgs e)
@@ -104,7 +114,6 @@ namespace BatteryHistory
             maskedTextBox1.Text = "00:00";
             maskedTextBox2.Text = "23:59";
 
-            button1_Click(null, null);
             HistoryManager.INSTANCE.AddListener(this, this.hostname);
         }
 
@@ -144,7 +153,7 @@ namespace BatteryHistory
 
         private void GraphView_SizeChanged(object sender, EventArgs e)
         {
-            button1_Click(null, null);
+            //button1_Click(null, null);
         }
 
         public void PushInformation()
@@ -189,8 +198,16 @@ namespace BatteryHistory
 
         private void GraphView_FormClosing(object sender, FormClosingEventArgs e)
         {
-            HistoryManager.INSTANCE.Remove(hostname);
+            if (destroyData)
+            {
+                HistoryManager.INSTANCE.Remove(hostname);
+            }
             HistoryManager.INSTANCE.RemoveListener(this, hostname);
+        }
+
+        private void GraphView_Shown(object sender, EventArgs e)
+        {
+            
         }
     }
 }

@@ -75,7 +75,18 @@ namespace BatteryHistory
                     requester.Stop();
                 }
 
-                listeners.Where(x => x.Key == hostname.ToUpper()).Select(y => y.Value).FirstOrDefault()?.ForEach(f => f.PushInformation());
+                lock (listeners)
+                {
+                    List<IPushNewInfo> list = listeners.Where(x => x.Key == hostname.ToUpper()).Select(y => y.Value).FirstOrDefault();
+                    if (list != null)
+                    {
+                        lock (list)
+                        {
+                            list.ForEach(f => f.PushInformation());
+                        }
+                    }
+
+                }
             }
         }
 
@@ -91,6 +102,7 @@ namespace BatteryHistory
         {
             if (!data.Keys.Contains(hostname.ToUpper()))
             {
+                toRemove.Remove(hostname.ToUpper());
                 data.Add(hostname.ToUpper(), new List<HistoryData>());
             }
         }
@@ -120,6 +132,9 @@ namespace BatteryHistory
                 }
             }
 
+            if (data.Count == 0)
+                data.Add(new TimeData(new DateTime(1, 1, 2000, 0, 0, 0)));
+
             return data.ToArray();
         }
 
@@ -146,20 +161,28 @@ namespace BatteryHistory
 
         public void AddListener(IPushNewInfo listener, string hostname)
         {
-            if (!listeners.Keys.Contains(hostname.ToUpper()))
-                listeners.Add(hostname.ToUpper(), new List<IPushNewInfo>());
+            lock (listeners)
+            {
+                if (!listeners.Keys.Contains(hostname.ToUpper()))
+                    listeners.Add(hostname.ToUpper(), new List<IPushNewInfo>());
 
-            listeners[hostname.ToUpper()].Add(listener);
+                lock (listeners[hostname.ToUpper()])
+                    listeners[hostname.ToUpper()].Add(listener);
+            }
         }
 
         public void RemoveListener(IPushNewInfo listener, string hostname)
         {
-            if (listeners.Keys.Contains(hostname.ToUpper()))
+            lock (listeners)
             {
-                listeners[hostname.ToUpper()].Remove(listener);
+                if (listeners.Keys.Contains(hostname.ToUpper()))
+                {
+                    listeners[hostname.ToUpper()].Remove(listener);
 
-                if (listeners[hostname.ToUpper()].Count == 0)
-                    listeners.Remove(hostname.ToUpper());
+                    if (listeners[hostname.ToUpper()].Count == 0)
+                        lock (listeners[hostname.ToUpper()])
+                            listeners.Remove(hostname.ToUpper());
+                }
             }
         }
 
